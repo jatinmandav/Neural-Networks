@@ -15,14 +15,17 @@ I have implemented 5 models.
 
 ## Usage:
 Download the Complete Project
+
 	```
 	git clone https://github.com/jatinmandav/Neural-Networks
 	```
 
 Navigate to Neural-Network Directory
+
 	```
 	cd Neural-Network
 	```
+
 
 Train the Network you Desire from the above mentioned 5 Network models:
 
