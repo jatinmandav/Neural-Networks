@@ -83,6 +83,16 @@ I trained and tested the above 5 models for 200 Epochs, learning_rate 0.001, bat
 
 Feel Free to play with the code, tweak parameters to improve the Network!
 
+Due to Limited Upload size on GitHub, I could not upload the pretrained Models with 200 Epochs, But these can be Downloaded from here
+
+  - [Feed Forward](https://drive.google.com/open?id=1QOAPkX7aHVODiVgG1GZCks--gaWL-w6w)
+  - [Simple RNN](https://drive.google.com/open?id=1rSpRm-Rkj3Lq2kHfKOxDfR-L8bqNDjc-)
+  - [Bidirectional RNN](https://drive.google.com/open?id=1yvoDE6rlQcRBvNOoYp87qoqZ4xdyjrx8)
+  - [Multi Column Deep Net](https://drive.google.com/open?id=1-6XffcMTxZGH5I2FALd3HT6bK_jjDTro)
+  - [Vote Milti Column Deep Net](https://drive.google.com/open?id=16zpc0p5-_rxfeeeAe6PB_9_2ZMwIqXXF)
+  
+The Dataset can be Downloaded from here: [train.csv](https://drive.google.com/open?id=1haUI_OkdKaMd-9iVnG7vz_fuBJDX9fKx)
+
 ## Architecture
 
   - Multi Column Deep Neural Network
@@ -92,25 +102,3 @@ Feel Free to play with the code, tweak parameters to improve the Network!
   - Vote Multi Column Deep Neural Network
 
   <p align="center"> <img src="vote_multi_column_architecture.png"/> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
