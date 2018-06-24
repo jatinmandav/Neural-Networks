@@ -24,8 +24,8 @@ Navigate to Neural-Network Directory
 	cd Neural-Network
 	```
 
-Train the Network you Desire from the above mentioned 5 Network models.
-	```
+Train the Network you Desire from the above mentioned 5 Network models:
+
 	usage: main.py [-h] [--save_model SAVE_MODEL] [--epochs EPOCHS]
                [--batch_size BATCH_SIZE] [--learning_rate LEARNING_RATE]
                [--feed_forward_architecture FEED_FORWARD_ARCHITECTURE]
@@ -56,7 +56,7 @@ Train the Network you Desire from the above mentioned 5 Network models.
         	                If training Feed Forward Network, what will be the
 	                        Architecture? Specify Number of neurons in each hidden
 	                        layer EX: [500,500,500]
-	```
+	
 
 ## Tests
 
@@ -88,11 +88,11 @@ Feel Free to play with the code, tweak parameters to improve the Network!
 
   - Multi Column Deep Neural Network
 
-  <p align="center"> <img src="multi_column_architecure.png"/> </p>
+  <p align="center"> <img src="multi_column_architecture.png"/> </p>
 
   - Vote Multi Column Deep Neural Network
 
-  <p align="center"> <img src="vote_multi_column_architecure.png"/> </p>
+  <p align="center"> <img src="vote_multi_column_architecture.png"/> </p>
 
 
 
