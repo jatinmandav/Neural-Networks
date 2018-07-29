@@ -12,7 +12,7 @@ The analysis is performed on **400,000 Tweets** on a **CNN-LSTM** DeepNet.
 
 Accuracy Achieved: **Approx 69%**
 
-Python Notebook: [word2vec/word2vec-sentuiment-analysis.ipynb](word2vec/word2vec-sentuiment-analysis.ipynb)
+Python Notebook: [word2vec/word2vec-sentiment-analysis.ipynb](word2vec/word2vec-sentiment-analysis.ipynb)
 
 Word2vec is a group of related models that are used to produce word embeddings. These models are shallow, two-layer neural networks that are trained to reconstruct linguistic contexts of words. Word2vec takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space. Word vectors are positioned in the vector space such that words that share common contexts in the corpus are located in close proximity to one another in the space. [[Source: Wikipedia](https://en.wikipedia.org/wiki/Word2Vec)]
 
@@ -36,7 +36,7 @@ CBOW is opposite of Skip-Grams. We attempt to predict the centre word from the g
 
 Accuracy Achieved: **Approx 69%**
 
-Python Notebook: [fastText/Sentiment_analysis_fasttext.ipynb](fastText/Sentiment_analysis_fasttext.ipynb)
+Python Notebook: [fastText/sentiment_analysis_fastext.ipynb](fastText/sentiment_analysis_fastext.ipynb)
 
 fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model is an unsupervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. fastText uses Neural network for word embedding
  [[Source: Wikipedia](https://en.wikipedia.org/wiki/FastText)]
