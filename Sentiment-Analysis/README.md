@@ -55,7 +55,7 @@ FastText is an extension to Word2Vec proposed by Facebook in 2016. Instead of fe
 
 Accuracy Achieved: **Approx 77%**
 
-Python Notebook: [universal-sentence-encoder/universal-sentence-encoder-sentiment-analysis.ipynb](universal-sentence-encoder/universal-sentence-encoder-sentiment-analysis.ipynb)
+Python Notebook: [universal-sentence-encoder/universal_sentence_encoder_sentiment-analysis.ipynb](universal-sentence-encoder/universal-sentence-encoder-sentiment-analysis.ipynb)
 
 Released in 2018, The Universal Sentence Encoder encodes text into high dimensional vectors that can be used for text classification, semantic similarity, clustering and other natural language tasks.
 
