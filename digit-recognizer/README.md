@@ -6,6 +6,8 @@ The goal here is to identify digits from the given dataset.
 
 MNIST Dataset can be found in 'train.csv' file with 785 Columns. Column 1 is the correct Label and Column 2 to 785 contains each pixel value of 28x28 image of handwritten digits.
 
+The complete project is trained on K80 GPU on [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+
 I have implemented 5 models.
   - Feed Forward Neural Network (VANILLA)
   - Simple Recurrent Neural Network (RNN/LSTM)
