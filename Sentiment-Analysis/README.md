@@ -4,6 +4,8 @@ Opinion mining (sometimes known as sentiment analysis or emotion AI) refers to t
 
 This Repository shows sentimen analysis on **Twitter Data** using various word-embeddings model namely: Word2Vec, FastText, Universal Sentence Encoder.
 
+The complete project is trained on K80 GPU on [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+
 Requirements: TensorFlow Hub, TensorFlow, Keras, Gensim, NLTK, NumPy, tqdm
 
 The analysis is performed on **400,000 Tweets** on a **CNN-LSTM** DeepNet.
